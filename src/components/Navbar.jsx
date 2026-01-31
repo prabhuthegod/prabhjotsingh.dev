@@ -14,7 +14,7 @@ const Navbar = () => {
   return (
     <nav className="fixed w-full bg-white dark:bg-gray-900 shadow-md z-10 transition-colors">
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
-        <div className="text-2xl font-bold text-gray-900 dark:text-white">DevName</div>
+        <div className="text-2xl font-bold text-gray-900 dark:text-white">Prabhjot Singh</div>
         <ul className="flex space-x-6 items-center">
           <li><a href="#about" className="hover:text-blue-500 dark:hover:text-blue-400">About</a></li>
           <li><a href="#projects" className="hover:text-blue-500 dark:hover:text-blue-400">Projects</a></li>

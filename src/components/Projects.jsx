@@ -1,11 +1,11 @@
 import React from "react";
 
 const projects = [
-  { title: "Portfolio Website", description: "React + Tailwind CSS portfolio.", link: "#" },
+  { title: "Portfolio Website", description: "Personal portfolio built with React + Vite + Tailwind CSS.", link: "https://github.com/prabhuthegod/prabhjotsingh.dev" },
   { title: "Todo App", description: "CRUD Todo app with local storage.", link: "#" },
-  { title: "E-commerce App", description: "Full-stack app with Stripe.", link: "#" },
+  { title: "E-commerce App", description: "Full-stack app with Stripe integration.", link: "#" },
   { title: "Blog Platform", description: "Content platform built with Next.js.", link: "#" },
-  { title: "Weather App", description: "Live weather app using API.", link: "#" },
+  { title: "Weather App", description: "Live weather app using OpenWeather API.", link: "#" },
 ];
 
 const Projects = () => {
